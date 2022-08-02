@@ -2,7 +2,7 @@
 
  Script to download all songs from a YouTube playlist.
  
- This script was made only for educational purposes, i don't support piracy! 
+ This script was made for educational purposes only, i don't support piracy! 
  
  ### Prerequisites
  
