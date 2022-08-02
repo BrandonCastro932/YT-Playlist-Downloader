@@ -16,7 +16,7 @@
  
  4- Install all dependencies with "npm install" command
  
- 5- Edit the "Config.json" file and paste your playlist URL ("Playlist visibility must be Public or Not listed").
+ 5- Edit the "Config.json" file and paste your playlist URL (Playlist visibility must be Public or Not listed).
  
  6- Run the script with "node index.js" command.
  
