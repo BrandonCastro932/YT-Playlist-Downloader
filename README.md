@@ -25,6 +25,6 @@
  
  * [NodeJS](https://nodejs.dev/) JavaScript run-time environment
 
-## Authors
+## Author
 
 * **Brandon Castro** - *Fullstack developer* - [BrandonCastro932](https://github.com/BrandonCastro932)
