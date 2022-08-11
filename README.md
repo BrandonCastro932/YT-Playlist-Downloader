@@ -27,4 +27,4 @@
 
 ## Author
 
-* **Brandon Castro** - *Fullstack developer* - [BrandonCastro932](https://github.com/BrandonCastro932)
+* **Brandon Castro** - *Full stack developer* - [BrandonCastro932](https://github.com/BrandonCastro932)
